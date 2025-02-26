@@ -1,6 +1,6 @@
 # Emergency Analyzer
 
-Emergency Analyzer is a FastAPI-based machine learning service that transcribes emergency calls using Whisper and classifies them using a fine-tuned BERT model. The system predicts the severity, type, and responsible entities based on the transcribed text.
+Emergency Analyzer is an Italian FastAPI-based machine learning service that transcribes emergency calls using Whisper and classifies them using a fine-tuned BERT model. The system predicts the severity, type, and responsible entities based on the transcribed text.
 
 ## Features
 
